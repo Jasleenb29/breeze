@@ -1,0 +1,23 @@
+{
+  "name": "breeze",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jasleenb29/weather-bot.git"
+  },
+  "author": "Jasleen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jasleenb29/weather-bot/issues"
+  },
+  "homepage": "https://github.com/Jasleenb29/weather-bot#readme",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "discord.js": "^13.6.0"
+  }
+}
