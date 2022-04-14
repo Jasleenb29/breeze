@@ -1,5 +1,5 @@
 ## Inspiration
-Both Soham and I are part of the **Global Ecology** program. We've always been interested in the environment, so we decided to create a bot that would tell us about the atmospheric conditions outside. In the morning, most people don't want to think about what to wear for the day, so this bot uses forecast information in order to develop a list of clothes that one could comfortably wear throughout the day.
+We've always been interested in the environment, so we decided to create a bot that would tell us about the atmospheric conditions outside. In the morning, most people don't want to think about what to wear for the day, so this bot uses forecast information in order to develop a list of clothes that one could comfortably wear throughout the day.
 
 ## What it does
 We have multiple commands including **air quality**, **weather**, and even a command that tells specifically **what to wear**. The air quality command allows users to see the exact air quality rating with a visual guide. It also gives the user exact recommendations on how they should stay safe throughout the day. Our weather command gives insight on what the temperature currently 
